@@ -1,6 +1,8 @@
 __pycache__
 .conda/
-.csv
-.doc
-.docx
-.pth
+*.csv
+*.doc
+*.docx
+*.pth
+*.pdf
+debug*
