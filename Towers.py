@@ -131,6 +131,12 @@ class Tower:
         '''
         return self.hotkey
     
+    def get_number(self):
+        '''
+        Returns Hotkey for the Tower
+        '''
+        return self.number
+    
 def tower_from_dict(d):
     '''
     Function to Create a Tower Object from a dictionary
